@@ -1,0 +1,31 @@
+10
+Brass Sword
+Weapon
+53 damage               Sword made of Brass.Used to kill Ranos demons.
+Shield of Larkus
+Shield
+26% block               Shield of forgotten     honest warrior, whose   name nobody remembers.
+Cursed Mask
+Helmet
+12% resist              Legendary Horan dropped this mask when he saved Korni village from curse
+King of Battle
+Weapon
+78 damage               Sword of King Tandor.By this sword he destroyed army of Larion.
+Cuirass of Gods
+Cuirass
+43% resist              Legendary Armour of     Nameless God. That one, who wears it - gains    God`s power.
+Useless Shield
+Shield
+5% block                Use it if only you have nothing else to wear.
+Master Leggins
+Leggins
+9% resist               Leggins of Master       Karonti of Larion. Saber Master.
+Boots of Undead
+Boots
+4% resist               Old torn boots. But it`s better than nothing.
+Saint Water
+Use
+50% HP heal             Water of Cathedral in    Korni village. Used to save some villagers from curse.
+Holerious Sword
+Weapon
+30 damage               Beautiful sword of Ranos blacksmiths. Just a    masterpiece. 
